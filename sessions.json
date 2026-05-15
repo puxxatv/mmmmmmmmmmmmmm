@@ -1,0 +1,26 @@
+{
+  "6dc9f564-1ebb-47bc-9b90-7c9ec1ae1e7d": {
+    "userId": "afab1b18-f0c6-4d25-a173-b95d0499bc2d",
+    "nick": "porcodio",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFmYWIxYjE4LWYwYzYtNGQyNS1hMTczLWI5NWQwNDk5YmMyZCIsIm5pY2siOiJwb3Jjb2RpbyIsInNlc3Npb25JZCI6IjZkYzlmNTY0LTFlYmItNDdiYy05YjkwLTdjOWVjMWFlMWU3ZCIsImV4cCI6MTc3ODgzNzk5MDQ2OH0.TjLtJURam6g7Ne91RFvVWHtk5DvI4Z93LkyFwthNNq4",
+    "exp": 1778838515973,
+    "createdAt": 1778830790469,
+    "lastUsed": 1778831315973
+  },
+  "3f716372-ea72-4524-bab0-32dc99bc2aaf": {
+    "userId": "f2fdbe24-27f2-4dc3-bd6a-0d4369f1e4e4",
+    "nick": "securechat2025",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImYyZmRiZTI0LTI3ZjItNGRjMy1iZDZhLTBkNDM2OWYxZTRlNCIsIm5pY2siOiJzZWN1cmVjaGF0MjAyNSIsInNlc3Npb25JZCI6IjNmNzE2MzcyLWVhNzItNDUyNC1iYWIwLTMyZGM5OWJjMmFhZiIsImV4cCI6MTc3ODgzODAwNjk2NH0.TYJOfgiJlnXaelj3pt8iEHsDckA8JytJq_LIkLU3zz8",
+    "exp": 1778838567942,
+    "createdAt": 1778830806964,
+    "lastUsed": 1778831367942
+  },
+  "f1e16098-9508-4e05-9e11-9f8ec01516fa": {
+    "userId": "afab1b18-f0c6-4d25-a173-b95d0499bc2d",
+    "nick": "porcodio",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFmYWIxYjE4LWYwYzYtNGQyNS1hMTczLWI5NWQwNDk5YmMyZCIsIm5pY2siOiJwb3Jjb2RpbyIsInNlc3Npb25JZCI6ImYxZTE2MDk4LTk1MDgtNGUwNS05ZTExLTlmOGVjMDE1MTZmYSIsImV4cCI6MTc3ODgzODYyNTQyMX0.jDjx7fWDx9FnOz5aKv9zAxl87lsCwtVGn1P4CzupP8M",
+    "exp": 1778838875938,
+    "createdAt": 1778831425421,
+    "lastUsed": 1778831675938
+  }
+}

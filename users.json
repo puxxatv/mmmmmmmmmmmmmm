@@ -1,0 +1,16 @@
+{
+  "porcodio": {
+    "id": "afab1b18-f0c6-4d25-a173-b95d0499bc2d",
+    "nick": "porcodio",
+    "passwordHash": "23b9174762a69a493a457bed70c15bf53bd0664f16cc639b39fe055565527fa322bc738b2cc6ad812c93baafe133f56add0212c90563f3a40ef45055f3311fdd",
+    "salt": "4c58a2ab2aded0e72cd46b8b9dfed0390533cff3539e21de3d80d9fbc06213b1",
+    "createdAt": 1778830790464
+  },
+  "securechat2025": {
+    "id": "f2fdbe24-27f2-4dc3-bd6a-0d4369f1e4e4",
+    "nick": "securechat2025",
+    "passwordHash": "843d18db84f32ddccb4b38eb2baa0e107e16925f00aa573fe7ce34c6de44cd9b4f857409beb2865b7452fb6913f93f14aa3f2de05e9182ab1686e5e2e2f85c4f",
+    "salt": "44202c77105729e1114ad2b60a63984379060d2002cb690e0062776503703da0",
+    "createdAt": 1778830806958
+  }
+}
